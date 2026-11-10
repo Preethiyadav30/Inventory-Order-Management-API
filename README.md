@@ -150,6 +150,15 @@ Testing includes:
 - Verifying automatic stock updates
 - Testing API responses and error handling
 
-## Learning Outcomes
+## Learning Objectives
 
-Through this project, I gained practical experience in
+- Gain practical experience in backend development using Python, Django, and Django REST Framework.
+- Understand REST API development and CRUD operations.
+- Learn database design, model relationships, and data management.
+- Implement user authentication and authorization.
+- Understand order processing and automated inventory stock management.
+- Develop skills in API testing and debugging using Postman.
+- Gain hands-on experience in building and managing a real-world backend application.
+
+
+Developed using Python, Django & Django REST Framework.
