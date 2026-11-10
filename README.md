@@ -55,22 +55,23 @@ The APIs can be tested using Postman.
 - Postman
 - Git and GitHub
 
+
 ## API Endpoints
 
-# Module #                       # Endpoint(URLS)#                  # Method #
+| Module | Endpoint (URL) | Method |
 
-| Register|               `/api/accounts/register/`             | POST |
-| Login |                  `/api/accounts/login/`               | POST |
-| Logout |                 `/api/accounts/logout/`              | POST |
-| Categories |               `/api/categories/`              | GET, POST |
-| Category Details |        `/api/categories/{id}/`        | GET, PUT, PATCH, DELETE |
-| Products |                  `/api/products/`              | GET, POST |
-| Product Details |          `/api/products/{id}/`      | GET, PUT, PATCH, DELETE |
-| Customers |                  `/api/customers/`              | GET, POST |
-| Customer Details |         `/api/customers/{id}/`       | GET, PUT, PATCH, DELETE |
-| Orders |                      `/api/orders/`                 | GET, POST |
-| Order Details             | `/api/orders/{id}/`        | GET, PUT, PATCH, DELETE |
-| Cancel Order |          `/api/orders/{id}/cancel/`            | POST |
+| Register | `/api/accounts/register/` | POST |
+| Login | `/api/accounts/login/` | POST |
+| Logout | `/api/accounts/logout/` | POST |
+| Categories | `/api/categories/` | GET, POST |
+| Category Details | `/api/categories/{id}/` | GET, PUT, PATCH, DELETE |
+| Products | `/api/products/` | GET, POST |
+| Product Details | `/api/products/{id}/` | GET, PUT, PATCH, DELETE |
+| Customers | `/api/customers/` | GET, POST |
+| Customer Details | `/api/customers/{id}/` | GET, PUT, PATCH, DELETE |
+| Orders | `/api/orders/` | GET, POST |
+| Order Details | `/api/orders/{id}/` | GET, PUT, PATCH, DELETE |
+| Cancel Order | `/api/orders/{id}/cancel/` | POST |
 
 ## Authentication
 
